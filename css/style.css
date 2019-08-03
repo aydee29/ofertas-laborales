@@ -1,0 +1,72 @@
+.col,.col1,.col2{
+width: 1000%;
+}
+.col4{
+    width: 1000%;
+    height: 500px;
+}
+.pol{
+    width: 15%;
+    height: 5%;
+}
+.up{
+    text-align: justify;
+    display:inline-block;
+color: brown;
+width: 15%;
+    height: 5%; 
+    border: 1px;
+}
+.us{
+    text-emphasis: after 0px;
+    display:inline-block;
+color: rgb(146, 144, 144);
+float: right;
+}
+.col-xs-3,.col-xs-3{
+    text-align: center;   
+}
+.col-xs-2{
+    text-align: center;
+}
+.form-control{
+    text-align: right;
+    display:inline-block;
+    width: 50%;  
+    height: 35%;   
+}
+.navbar-inverse{
+    background-color: brown; 
+    
+}
+.pool{
+    width: 50%;
+}
+.p1{
+    width: 50%;
+}
+.par{
+    width: 10%;
+    height: 5%;
+    background-color: brown;
+}
+.cal{
+    width: 30px;
+    height: 30px;
+}
+.paz{
+float:right;
+background-color: aquamarine;
+height: 10px;
+}
+.list-group-item{
+    width: 50%;
+	height: 60px;
+}
+
+
+
+
+
+        
+    
